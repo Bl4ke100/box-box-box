@@ -1,0 +1,27 @@
+﻿Finishing (ground truth):
+['D001', 'D014', 'D018', 'D002', 'D009', 'D004', 'D017', 'D016', 'D010', 'D007', 'D012', 'D020', 'D003', 'D006', 'D019', 'D005', 'D015', 'D013', 'D008', 'D011']
+
+Predicted order:
+['D014', 'D001', 'D018', 'D004', 'D017', 'D002', 'D010', 'D009', 'D007', 'D012', 'D016', 'D020', 'D003', 'D006', 'D019', 'D005', 'D013', 'D015', 'D008', 'D011']
+
+Detailed times:
+ 1. D001 computed time = 4395.7801
+ 2. D014 computed time = 4395.0879
+ 3. D018 computed time = 4396.9510
+ 4. D002 computed time = 4400.6229
+ 5. D009 computed time = 4404.1557
+ 6. D004 computed time = 4398.4719
+ 7. D017 computed time = 4399.1425
+ 8. D016 computed time = 4408.6743
+ 9. D010 computed time = 4403.9506
+10. D007 computed time = 4405.2126
+11. D012 computed time = 4408.5163
+12. D020 computed time = 4415.1527
+13. D003 computed time = 4416.0310
+14. D006 computed time = 4416.1232
+15. D019 computed time = 4417.1634
+16. D005 computed time = 4417.7032
+17. D015 computed time = 4428.3619
+18. D013 computed time = 4426.6373
+19. D008 computed time = 4433.6634
+20. D011 computed time = 4454.5061

@@ -36,3 +36,4 @@ temp/
 # System files
 Thumbs.db
 desktop.ini
+ai_model.pkl

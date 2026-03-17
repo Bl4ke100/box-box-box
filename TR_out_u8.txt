@@ -1,0 +1,2 @@
+﻿Rounded params violations: 4094, loss: 135872.1768
+Solver params violations: 3599, loss: 22786.4408

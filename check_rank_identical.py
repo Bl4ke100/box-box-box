@@ -1,0 +1,73 @@
+import json
+import glob
+import os
+
+data_dir = r"c:\Blake\Coding Stuff\box-box-box\data\historical_races"
+files = glob.glob(os.path.join(data_dir, "*.json"))
+
+races = []
+for f in files[:8]:
+    with open(f, 'r') as fin:
+        races.extend(json.load(fin))
+
+def get_feats(race_config, strat):
+    total_laps = race_config['total_laps']
+    temp = race_config['track_temp']
+    pit_lane_time = race_config['pit_lane_time']
+    base_lap_time = race_config['base_lap_time']
+    
+    features = [0.0] * 9
+    constant_time = base_lap_time * total_laps + pit_lane_time * len(strat['pit_stops'])
+    
+    current_lap = 1
+    current_tire = strat['starting_tire']
+    stops = strat['pit_stops']
+    
+    for stop in stops:
+        pit_lap = stop['lap']
+        stint_len = pit_lap - current_lap + 1
+        idx = 0 if current_tire == 'SOFT' else (1 if current_tire == 'MEDIUM' else 2)
+        
+        features[idx] += stint_len
+        sum_age = stint_len * (stint_len + 1) / 2
+        features[3 + idx] += sum_age
+        features[6 + idx] += sum_age * temp
+        
+        current_lap = pit_lap + 1
+        current_tire = stop['to_tire']
+        
+    if current_lap <= total_laps:
+        stint_len = total_laps - current_lap + 1
+        idx = 0 if current_tire == 'SOFT' else (1 if current_tire == 'MEDIUM' else 2)
+        features[idx] += stint_len
+        sum_age = stint_len * (stint_len + 1) / 2
+        features[3 + idx] += sum_age
+        features[6 + idx] += sum_age * temp
+        
+    return features, constant_time
+
+for race in races[:100]:
+    config = race['race_config']
+    strats = {s['driver_id']: s for _, s in race['strategies'].items()}
+    finishing = race['finishing_positions']
+    
+    for rank1 in range(len(finishing)):
+        for rank2 in range(rank1+1, len(finishing)):
+            d1 = finishing[rank1]
+            d2 = finishing[rank2]
+            
+            f1, c1 = get_feats(config, strats[d1])
+            f2, c2 = get_feats(config, strats[d2])
+            
+            diff_f = [x1 - x2 for x1, x2 in zip(f1, f2)]
+            diff_c = c1 - c2
+            
+            if all(abs(v) < 0.001 for v in diff_f) and abs(diff_c) < 0.001:
+                s1 = strats[d1]
+                s2 = strats[d2]
+                
+                if s1['starting_tire'] != s2['starting_tire'] or s1['pit_stops'] != s2['pit_stops']:
+                    print(f"Race ID: {race['race_id']}")
+                    print(f"Rank {rank1+1}: {d1} -> {s1['starting_tire']} -> {s1['pit_stops']}")
+                    print(f"Rank {rank2+1}: {d2} -> {s2['starting_tire']} -> {s2['pit_stops']}")
+                    exit(0)

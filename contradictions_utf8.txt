@@ -1,0 +1,17 @@
+﻿Total pairs: 1900, Violations: 382
+Top 3 Violations:
+
+--- Violation 1 : Predicted D015 (5656.38) > D013 (5647.74) by 8.63s ---
+Track: Bahrain, Laps: 62, Temp: 21, Base: 87.3, Pit: 21.9
+D015 (True Pos Winner): HARD -> [{'lap': 12, 'from_tire': 'HARD', 'to_tire': 'MEDIUM'}, {'lap': 48, 'from_tire': 'MEDIUM', 'to_tire': 'HARD'}]
+D013 (True Pos Loser) : SOFT -> [{'lap': 8, 'from_tire': 'SOFT', 'to_tire': 'HARD'}]
+
+--- Violation 2 : Predicted D018 (6635.62) > D012 (6627.99) by 7.63s ---
+Track: Silverstone, Laps: 69, Temp: 24, Base: 91.4, Pit: 21.9
+D018 (True Pos Winner): HARD -> [{'lap': 10, 'from_tire': 'HARD', 'to_tire': 'SOFT'}, {'lap': 43, 'from_tire': 'SOFT', 'to_tire': 'HARD'}]
+D012 (True Pos Loser) : SOFT -> [{'lap': 16, 'from_tire': 'SOFT', 'to_tire': 'MEDIUM'}]
+
+--- Violation 3 : Predicted D013 (3784.78) > D011 (3777.52) by 7.26s ---
+Track: Suzuka, Laps: 41, Temp: 33, Base: 88.6, Pit: 23.9
+D013 (True Pos Winner): HARD -> [{'lap': 36, 'from_tire': 'HARD', 'to_tire': 'MEDIUM'}]
+D011 (True Pos Loser) : HARD -> [{'lap': 25, 'from_tire': 'HARD', 'to_tire': 'SOFT'}]

@@ -1,0 +1,3 @@
+﻿BINGO! Different strategies but identical features!
+D1 D013: HARD -> [{'lap': 22, 'from_tire': 'HARD', 'to_tire': 'MEDIUM'}]
+D2 D001: MEDIUM -> [{'lap': 18, 'from_tire': 'MEDIUM', 'to_tire': 'HARD'}]

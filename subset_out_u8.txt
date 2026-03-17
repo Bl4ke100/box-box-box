@@ -1,0 +1,49 @@
+﻿MATH CONTRADICTION SUBSET:
+
+Constraint 0: D001 beats D014
+Diff Features: [0.0, 5.0, -5.0, 0.0, 105.0, -150.0, 0.0, 2835.0, -4050.0]
+Diff Constant: 0.0
+
+Constraint 1: D014 beats D018
+Diff Features: [0.0, 3.0, -3.0, 0.0, 51.0, -102.0, 0.0, 1377.0, -2754.0]
+Diff Constant: 0.0
+
+Constraint 2: D018 beats D002
+Diff Features: [0.0, -18.0, 18.0, 0.0, -189.0, 477.0, 0.0, -5103.0, 12879.0]
+Diff Constant: -22.699999999999818
+
+Constraint 3: D002 beats D009
+Diff Features: [-14.0, 11.0, 3.0, -105.0, 56.0, 48.0, -2835.0, 1512.0, 1296.0]
+Diff Constant: 0.0
+
+Constraint 4: D009 beats D004
+Diff Features: [14.0, -7.0, -7.0, 105.0, 22.0, -126.0, 2835.0, 594.0, -3402.0]
+Diff Constant: 0.0
+
+Constraint 5: D004 beats D017
+Diff Features: [0.0, 16.0, -16.0, 0.0, 140.0, -472.0, 0.0, 3780.0, -12744.0]
+Diff Constant: 22.699999999999818
+
+Constraint 6: D017 beats D016
+Diff Features: [-14.0, -12.0, 26.0, -105.0, -234.0, 637.0, -2835.0, -6318.0, 17199.0]
+Diff Constant: -22.699999999999818
+
+Constraint 7: D016 beats D010
+Diff Features: [-13.0, 25.0, -12.0, -97.0, 325.0, -210.0, -2619.0, 8775.0, -5670.0]
+Diff Constant: 0.0
+
+Constraint 8: D010 beats D007
+Diff Features: [11.0, -19.0, 8.0, 66.0, -190.0, 156.0, 1782.0, -5130.0, 4212.0]
+Diff Constant: 0.0
+
+Constraint 9: D007 beats D012
+Diff Features: [0.0, 19.0, -19.0, 0.0, 190.0, -187.0, 0.0, 5130.0, -5049.0]
+Diff Constant: 0.0
+
+Constraint 10: D012 beats D020
+Diff Features: [-1.0, -33.0, 34.0, -17.0, -561.0, 307.0, -459.0, -15147.0, 8289.0]
+Diff Constant: 22.699999999999818
+
+Constraint 11: D020 beats D003
+Diff Features: [2.0, -2.0, 0.0, 33.0, -69.0, 0.0, 891.0, -1863.0, 0.0]
+Diff Constant: 0.0

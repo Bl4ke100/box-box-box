@@ -1,0 +1,976 @@
+﻿D001 (Rank 0) BEAT D011 (Rank 19) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 20), ('SOFT', 30)]
+D2 D001 (winner): [('MEDIUM', 23), ('HARD', 27)]
+----------------------------------------
+D002 (Rank 0) BEAT D005 (Rank 19) despite fewer soft laps!
+D1 D005 (loser): [('MEDIUM', 18), ('SOFT', 34)]
+D2 D002 (winner): [('MEDIUM', 23), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D017 (Rank 19) despite fewer soft laps!
+D1 D017 (loser): [('MEDIUM', 17), ('SOFT', 27)]
+D2 D005 (winner): [('HARD', 25), ('MEDIUM', 19)]
+----------------------------------------
+D009 (Rank 0) BEAT D003 (Rank 17) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 23), ('SOFT', 28)]
+D2 D009 (winner): [('MEDIUM', 22), ('HARD', 29)]
+----------------------------------------
+D009 (Rank 0) BEAT D013 (Rank 18) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 21), ('SOFT', 30)]
+D2 D009 (winner): [('MEDIUM', 22), ('HARD', 29)]
+----------------------------------------
+D009 (Rank 0) BEAT D007 (Rank 19) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 18), ('SOFT', 33)]
+D2 D009 (winner): [('MEDIUM', 22), ('HARD', 29)]
+----------------------------------------
+D009 (Rank 0) BEAT D017 (Rank 16) despite fewer soft laps!
+D1 D017 (loser): [('MEDIUM', 31), ('SOFT', 34)]
+D2 D009 (winner): [('HARD', 36), ('MEDIUM', 29)]
+----------------------------------------
+D009 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('HARD', 28), ('SOFT', 37)]
+D2 D009 (winner): [('HARD', 36), ('MEDIUM', 29)]
+----------------------------------------
+D009 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 21), ('SOFT', 44)]
+D2 D009 (winner): [('HARD', 36), ('MEDIUM', 29)]
+----------------------------------------
+D014 (Rank 0) BEAT D011 (Rank 19) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 24), ('SOFT', 33)]
+D2 D014 (winner): [('HARD', 31), ('MEDIUM', 26)]
+----------------------------------------
+D013 (Rank 0) BEAT D008 (Rank 19) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 19), ('SOFT', 26)]
+D2 D013 (winner): [('HARD', 34), ('SOFT', 11)]
+----------------------------------------
+D012 (Rank 0) BEAT D004 (Rank 18) despite fewer soft laps!
+D1 D004 (loser): [('MEDIUM', 17), ('SOFT', 26)]
+D2 D012 (winner): [('MEDIUM', 19), ('HARD', 24)]
+----------------------------------------
+D012 (Rank 0) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 17), ('SOFT', 26)]
+D2 D012 (winner): [('MEDIUM', 19), ('HARD', 24)]
+----------------------------------------
+D007 (Rank 0) BEAT D002 (Rank 11) despite fewer soft laps!
+D1 D002 (loser): [('MEDIUM', 28), ('SOFT', 26)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D007 (Rank 0) BEAT D004 (Rank 12) despite fewer soft laps!
+D1 D004 (loser): [('HARD', 27), ('SOFT', 27)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D007 (Rank 0) BEAT D015 (Rank 13) despite fewer soft laps!
+D1 D015 (loser): [('HARD', 27), ('SOFT', 27)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D007 (Rank 0) BEAT D009 (Rank 16) despite fewer soft laps!
+D1 D009 (loser): [('HARD', 25), ('SOFT', 29)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D007 (Rank 0) BEAT D012 (Rank 17) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 17), ('SOFT', 37)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D007 (Rank 0) BEAT D017 (Rank 18) despite fewer soft laps!
+D1 D017 (loser): [('MEDIUM', 16), ('SOFT', 38)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D007 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 16), ('SOFT', 38)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D019 (Rank 0) BEAT D009 (Rank 17) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 22), ('SOFT', 30)]
+D2 D019 (winner): [('HARD', 28), ('MEDIUM', 24)]
+----------------------------------------
+D019 (Rank 0) BEAT D004 (Rank 18) despite fewer soft laps!
+D1 D004 (loser): [('MEDIUM', 19), ('SOFT', 33)]
+D2 D019 (winner): [('HARD', 28), ('MEDIUM', 24)]
+----------------------------------------
+D019 (Rank 0) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 15), ('SOFT', 37)]
+D2 D019 (winner): [('HARD', 28), ('MEDIUM', 24)]
+----------------------------------------
+D005 (Rank 0) BEAT D020 (Rank 16) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 19), ('SOFT', 31)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 23)]
+----------------------------------------
+D005 (Rank 0) BEAT D007 (Rank 17) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 18), ('SOFT', 32)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 23)]
+----------------------------------------
+D005 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 16), ('SOFT', 34)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 23)]
+----------------------------------------
+D005 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 15), ('SOFT', 35)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 23)]
+----------------------------------------
+D010 (Rank 0) BEAT D001 (Rank 17) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 22), ('SOFT', 31)]
+D2 D010 (winner): [('MEDIUM', 22), ('HARD', 31)]
+----------------------------------------
+D010 (Rank 0) BEAT D019 (Rank 18) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 17), ('SOFT', 36)]
+D2 D010 (winner): [('MEDIUM', 22), ('HARD', 31)]
+----------------------------------------
+D010 (Rank 0) BEAT D014 (Rank 19) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 15), ('SOFT', 38)]
+D2 D010 (winner): [('MEDIUM', 22), ('HARD', 31)]
+----------------------------------------
+D003 (Rank 0) BEAT D001 (Rank 18) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 15), ('SOFT', 30)]
+D2 D003 (winner): [('HARD', 28), ('MEDIUM', 17)]
+----------------------------------------
+D003 (Rank 0) BEAT D016 (Rank 19) despite fewer soft laps!
+D1 D016 (loser): [('MEDIUM', 15), ('SOFT', 30)]
+D2 D003 (winner): [('HARD', 28), ('MEDIUM', 17)]
+----------------------------------------
+D010 (Rank 0) BEAT D001 (Rank 16) despite fewer soft laps!
+D1 D001 (loser): [('HARD', 26), ('SOFT', 28)]
+D2 D010 (winner): [('MEDIUM', 24), ('HARD', 30)]
+----------------------------------------
+D010 (Rank 0) BEAT D014 (Rank 18) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 24), ('SOFT', 30)]
+D2 D010 (winner): [('MEDIUM', 24), ('HARD', 30)]
+----------------------------------------
+D010 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 22), ('SOFT', 32)]
+D2 D010 (winner): [('MEDIUM', 24), ('HARD', 30)]
+----------------------------------------
+D017 (Rank 0) BEAT D018 (Rank 15) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 27), ('SOFT', 26)]
+D2 D017 (winner): [('MEDIUM', 22), ('HARD', 31)]
+----------------------------------------
+D017 (Rank 0) BEAT D014 (Rank 18) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 24), ('SOFT', 29)]
+D2 D017 (winner): [('MEDIUM', 22), ('HARD', 31)]
+----------------------------------------
+D017 (Rank 0) BEAT D016 (Rank 19) despite fewer soft laps!
+D1 D016 (loser): [('MEDIUM', 18), ('SOFT', 35)]
+D2 D017 (winner): [('MEDIUM', 22), ('HARD', 31)]
+----------------------------------------
+D003 (Rank 2) BEAT D014 (Rank 14) despite fewer soft laps!
+D1 D014 (loser): [('HARD', 31), ('SOFT', 33)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 41)]
+----------------------------------------
+D003 (Rank 2) BEAT D001 (Rank 15) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 30), ('SOFT', 34)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 41)]
+----------------------------------------
+D003 (Rank 2) BEAT D010 (Rank 16) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 27), ('SOFT', 37)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 41)]
+----------------------------------------
+D003 (Rank 2) BEAT D006 (Rank 17) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 26), ('SOFT', 38)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 41)]
+----------------------------------------
+D003 (Rank 2) BEAT D005 (Rank 18) despite fewer soft laps!
+D1 D005 (loser): [('MEDIUM', 24), ('SOFT', 40)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 41)]
+----------------------------------------
+D019 (Rank 0) BEAT D007 (Rank 18) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 18), ('SOFT', 26)]
+D2 D019 (winner): [('MEDIUM', 22), ('HARD', 22)]
+----------------------------------------
+D019 (Rank 0) BEAT D008 (Rank 19) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 16), ('SOFT', 28)]
+D2 D019 (winner): [('MEDIUM', 22), ('HARD', 22)]
+----------------------------------------
+D016 (Rank 2) BEAT D019 (Rank 13) despite fewer soft laps!
+D1 D019 (loser): [('HARD', 36), ('SOFT', 33)]
+D2 D016 (winner): [('HARD', 42), ('MEDIUM', 27)]
+----------------------------------------
+D016 (Rank 2) BEAT D007 (Rank 17) despite fewer soft laps!
+D1 D007 (loser): [('HARD', 30), ('SOFT', 39)]
+D2 D016 (winner): [('HARD', 42), ('MEDIUM', 27)]
+----------------------------------------
+D016 (Rank 2) BEAT D009 (Rank 18) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 25), ('SOFT', 44)]
+D2 D016 (winner): [('HARD', 42), ('MEDIUM', 27)]
+----------------------------------------
+D016 (Rank 2) BEAT D003 (Rank 19) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 23), ('SOFT', 46)]
+D2 D016 (winner): [('HARD', 42), ('MEDIUM', 27)]
+----------------------------------------
+D014 (Rank 0) BEAT D015 (Rank 17) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 26), ('SOFT', 28)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 31)]
+----------------------------------------
+D014 (Rank 0) BEAT D005 (Rank 18) despite fewer soft laps!
+D1 D005 (loser): [('MEDIUM', 18), ('SOFT', 36)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 31)]
+----------------------------------------
+D014 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 18), ('SOFT', 36)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 31)]
+----------------------------------------
+D017 (Rank 0) BEAT D011 (Rank 19) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 23), ('SOFT', 26)]
+D2 D017 (winner): [('MEDIUM', 19), ('HARD', 30)]
+----------------------------------------
+D004 (Rank 1) BEAT D012 (Rank 13) despite fewer soft laps!
+D1 D012 (loser): [('HARD', 34), ('SOFT', 28)]
+D2 D004 (winner): [('HARD', 35), ('MEDIUM', 27)]
+----------------------------------------
+D004 (Rank 1) BEAT D005 (Rank 16) despite fewer soft laps!
+D1 D005 (loser): [('HARD', 32), ('SOFT', 30)]
+D2 D004 (winner): [('HARD', 35), ('MEDIUM', 27)]
+----------------------------------------
+D004 (Rank 1) BEAT D019 (Rank 17) despite fewer soft laps!
+D1 D019 (loser): [('HARD', 32), ('SOFT', 30)]
+D2 D004 (winner): [('HARD', 35), ('MEDIUM', 27)]
+----------------------------------------
+D005 (Rank 0) BEAT D016 (Rank 19) despite fewer soft laps!
+D1 D016 (loser): [('MEDIUM', 15), ('SOFT', 26)]
+D2 D005 (winner): [('MEDIUM', 18), ('HARD', 23)]
+----------------------------------------
+D003 (Rank 0) BEAT D010 (Rank 15) despite fewer soft laps!
+D1 D010 (loser): [('HARD', 25), ('SOFT', 28)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 30)]
+----------------------------------------
+D003 (Rank 0) BEAT D009 (Rank 18) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 16), ('SOFT', 37)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 30)]
+----------------------------------------
+D003 (Rank 0) BEAT D014 (Rank 19) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 15), ('SOFT', 38)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 30)]
+----------------------------------------
+D008 (Rank 0) BEAT D005 (Rank 19) despite fewer soft laps!
+D1 D005 (loser): [('MEDIUM', 17), ('SOFT', 30)]
+D2 D008 (winner): [('MEDIUM', 22), ('HARD', 25)]
+----------------------------------------
+D005 (Rank 0) BEAT D006 (Rank 18) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 18), ('SOFT', 26)]
+D2 D005 (winner): [('HARD', 25), ('MEDIUM', 19)]
+----------------------------------------
+D005 (Rank 0) BEAT D014 (Rank 19) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 15), ('SOFT', 29)]
+D2 D005 (winner): [('HARD', 25), ('MEDIUM', 19)]
+----------------------------------------
+D014 (Rank 1) BEAT D002 (Rank 14) despite fewer soft laps!
+D1 D002 (loser): [('HARD', 36), ('SOFT', 26)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D006 (Rank 17) despite fewer soft laps!
+D1 D006 (loser): [('HARD', 30), ('SOFT', 32)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D004 (Rank 19) despite fewer soft laps!
+D1 D004 (loser): [('MEDIUM', 23), ('SOFT', 39)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 39)]
+----------------------------------------
+D005 (Rank 0) BEAT D007 (Rank 19) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 15), ('SOFT', 34)]
+D2 D005 (winner): [('HARD', 28), ('MEDIUM', 21)]
+----------------------------------------
+D008 (Rank 0) BEAT D003 (Rank 18) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 19), ('SOFT', 31)]
+D2 D008 (winner): [('HARD', 28), ('MEDIUM', 22)]
+----------------------------------------
+D008 (Rank 0) BEAT D001 (Rank 19) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 16), ('SOFT', 34)]
+D2 D008 (winner): [('HARD', 28), ('MEDIUM', 22)]
+----------------------------------------
+D009 (Rank 1) BEAT D015 (Rank 19) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 23), ('SOFT', 30)]
+D2 D009 (winner): [('HARD', 35), ('MEDIUM', 18)]
+----------------------------------------
+D012 (Rank 0) BEAT D010 (Rank 19) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 15), ('SOFT', 26)]
+D2 D012 (winner): [('MEDIUM', 23), ('HARD', 18)]
+----------------------------------------
+D007 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 23), ('SOFT', 39)]
+D2 D007 (winner): [('MEDIUM', 25), ('HARD', 37)]
+----------------------------------------
+D014 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 22), ('SOFT', 29)]
+D2 D014 (winner): [('MEDIUM', 22), ('HARD', 29)]
+----------------------------------------
+D004 (Rank 0) BEAT D016 (Rank 18) despite fewer soft laps!
+D1 D016 (loser): [('MEDIUM', 17), ('SOFT', 28)]
+D2 D004 (winner): [('MEDIUM', 18), ('HARD', 27)]
+----------------------------------------
+D004 (Rank 0) BEAT D019 (Rank 19) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 16), ('SOFT', 29)]
+D2 D004 (winner): [('MEDIUM', 18), ('HARD', 27)]
+----------------------------------------
+D017 (Rank 0) BEAT D018 (Rank 14) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 25), ('SOFT', 27)]
+D2 D017 (winner): [('MEDIUM', 23), ('HARD', 29)]
+----------------------------------------
+D017 (Rank 0) BEAT D007 (Rank 18) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 23), ('SOFT', 29)]
+D2 D017 (winner): [('MEDIUM', 23), ('HARD', 29)]
+----------------------------------------
+D017 (Rank 0) BEAT D015 (Rank 19) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 15), ('SOFT', 37)]
+D2 D017 (winner): [('MEDIUM', 23), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 1) BEAT D011 (Rank 15) despite fewer soft laps!
+D1 D011 (loser): [('HARD', 32), ('SOFT', 33)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 39)]
+----------------------------------------
+D005 (Rank 1) BEAT D018 (Rank 18) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 28), ('SOFT', 37)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 39)]
+----------------------------------------
+D005 (Rank 1) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 19), ('SOFT', 46)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 39)]
+----------------------------------------
+D010 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 20), ('SOFT', 29)]
+D2 D010 (winner): [('HARD', 29), ('MEDIUM', 20)]
+----------------------------------------
+D001 (Rank 0) BEAT D010 (Rank 18) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 19), ('SOFT', 28)]
+D2 D001 (winner): [('HARD', 26), ('MEDIUM', 21)]
+----------------------------------------
+D001 (Rank 0) BEAT D017 (Rank 19) despite fewer soft laps!
+D1 D017 (loser): [('MEDIUM', 17), ('SOFT', 30)]
+D2 D001 (winner): [('HARD', 26), ('MEDIUM', 21)]
+----------------------------------------
+D016 (Rank 1) BEAT D014 (Rank 17) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 28), ('SOFT', 41)]
+D2 D016 (winner): [('HARD', 39), ('MEDIUM', 30)]
+----------------------------------------
+D016 (Rank 1) BEAT D003 (Rank 18) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 26), ('SOFT', 43)]
+D2 D016 (winner): [('HARD', 39), ('MEDIUM', 30)]
+----------------------------------------
+D016 (Rank 1) BEAT D019 (Rank 19) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 22), ('SOFT', 47)]
+D2 D016 (winner): [('HARD', 39), ('MEDIUM', 30)]
+----------------------------------------
+D012 (Rank 0) BEAT D004 (Rank 12) despite fewer soft laps!
+D1 D004 (loser): [('HARD', 28), ('SOFT', 27)]
+D2 D012 (winner): [('HARD', 35), ('MEDIUM', 20)]
+----------------------------------------
+D012 (Rank 0) BEAT D010 (Rank 13) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 26), ('SOFT', 29)]
+D2 D012 (winner): [('HARD', 35), ('MEDIUM', 20)]
+----------------------------------------
+D012 (Rank 0) BEAT D001 (Rank 16) despite fewer soft laps!
+D1 D001 (loser): [('HARD', 25), ('SOFT', 30)]
+D2 D012 (winner): [('HARD', 35), ('MEDIUM', 20)]
+----------------------------------------
+D012 (Rank 0) BEAT D013 (Rank 17) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 23), ('SOFT', 32)]
+D2 D012 (winner): [('HARD', 35), ('MEDIUM', 20)]
+----------------------------------------
+D012 (Rank 0) BEAT D019 (Rank 18) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 22), ('SOFT', 33)]
+D2 D012 (winner): [('HARD', 35), ('MEDIUM', 20)]
+----------------------------------------
+D012 (Rank 0) BEAT D015 (Rank 19) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 19), ('SOFT', 36)]
+D2 D012 (winner): [('HARD', 35), ('MEDIUM', 20)]
+----------------------------------------
+D013 (Rank 0) BEAT D008 (Rank 16) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 24), ('SOFT', 26)]
+D2 D013 (winner): [('MEDIUM', 22), ('HARD', 28)]
+----------------------------------------
+D013 (Rank 0) BEAT D003 (Rank 17) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 23), ('SOFT', 27)]
+D2 D013 (winner): [('MEDIUM', 22), ('HARD', 28)]
+----------------------------------------
+D013 (Rank 0) BEAT D011 (Rank 18) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 18), ('SOFT', 32)]
+D2 D013 (winner): [('MEDIUM', 22), ('HARD', 28)]
+----------------------------------------
+D013 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 17), ('SOFT', 33)]
+D2 D013 (winner): [('MEDIUM', 22), ('HARD', 28)]
+----------------------------------------
+D019 (Rank 0) BEAT D018 (Rank 15) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 26), ('SOFT', 27)]
+D2 D019 (winner): [('MEDIUM', 24), ('HARD', 29)]
+----------------------------------------
+D019 (Rank 0) BEAT D006 (Rank 16) despite fewer soft laps!
+D1 D006 (loser): [('HARD', 25), ('SOFT', 28)]
+D2 D019 (winner): [('MEDIUM', 24), ('HARD', 29)]
+----------------------------------------
+D019 (Rank 0) BEAT D013 (Rank 17) despite fewer soft laps!
+D1 D013 (loser): [('HARD', 25), ('SOFT', 28)]
+D2 D019 (winner): [('MEDIUM', 24), ('HARD', 29)]
+----------------------------------------
+D019 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 24), ('SOFT', 29)]
+D2 D019 (winner): [('MEDIUM', 24), ('HARD', 29)]
+----------------------------------------
+D019 (Rank 0) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 18), ('SOFT', 35)]
+D2 D019 (winner): [('MEDIUM', 24), ('HARD', 29)]
+----------------------------------------
+D020 (Rank 0) BEAT D006 (Rank 15) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 27), ('SOFT', 27)]
+D2 D020 (winner): [('MEDIUM', 26), ('HARD', 28)]
+----------------------------------------
+D020 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 15), ('SOFT', 39)]
+D2 D020 (winner): [('MEDIUM', 26), ('HARD', 28)]
+----------------------------------------
+D016 (Rank 0) BEAT D008 (Rank 19) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 17), ('SOFT', 32)]
+D2 D016 (winner): [('MEDIUM', 22), ('HARD', 27)]
+----------------------------------------
+D019 (Rank 1) BEAT D018 (Rank 8) despite fewer soft laps!
+D1 D018 (loser): [('HARD', 36), ('SOFT', 26)]
+D2 D019 (winner): [('SOFT', 15), ('HARD', 47)]
+----------------------------------------
+D019 (Rank 1) BEAT D012 (Rank 14) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 31), ('SOFT', 31)]
+D2 D019 (winner): [('SOFT', 15), ('HARD', 47)]
+----------------------------------------
+D019 (Rank 1) BEAT D004 (Rank 17) despite fewer soft laps!
+D1 D004 (loser): [('MEDIUM', 26), ('SOFT', 36)]
+D2 D019 (winner): [('SOFT', 15), ('HARD', 47)]
+----------------------------------------
+D019 (Rank 1) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 22), ('SOFT', 40)]
+D2 D019 (winner): [('SOFT', 15), ('HARD', 47)]
+----------------------------------------
+D008 (Rank 0) BEAT D015 (Rank 19) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 21), ('SOFT', 34)]
+D2 D008 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D005 (Rank 0) BEAT D010 (Rank 17) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 25), ('SOFT', 26)]
+D2 D005 (winner): [('MEDIUM', 22), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D014 (Rank 18) despite fewer soft laps!
+D1 D014 (loser): [('HARD', 25), ('SOFT', 26)]
+D2 D005 (winner): [('MEDIUM', 22), ('HARD', 29)]
+----------------------------------------
+D006 (Rank 0) BEAT D010 (Rank 18) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 18), ('SOFT', 29)]
+D2 D006 (winner): [('HARD', 27), ('MEDIUM', 20)]
+----------------------------------------
+D006 (Rank 0) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 16), ('SOFT', 31)]
+D2 D006 (winner): [('HARD', 27), ('MEDIUM', 20)]
+----------------------------------------
+D010 (Rank 0) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 17), ('SOFT', 26)]
+D2 D010 (winner): [('MEDIUM', 23), ('HARD', 20)]
+----------------------------------------
+D020 (Rank 0) BEAT D019 (Rank 16) despite fewer soft laps!
+D1 D019 (loser): [('HARD', 28), ('SOFT', 26)]
+D2 D020 (winner): [('MEDIUM', 18), ('HARD', 36)]
+----------------------------------------
+D020 (Rank 0) BEAT D014 (Rank 17) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 27), ('SOFT', 27)]
+D2 D020 (winner): [('MEDIUM', 18), ('HARD', 36)]
+----------------------------------------
+D020 (Rank 0) BEAT D018 (Rank 18) despite fewer soft laps!
+D1 D018 (loser): [('HARD', 25), ('SOFT', 29)]
+D2 D020 (winner): [('MEDIUM', 18), ('HARD', 36)]
+----------------------------------------
+D020 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 24), ('SOFT', 30)]
+D2 D020 (winner): [('MEDIUM', 18), ('HARD', 36)]
+----------------------------------------
+D002 (Rank 0) BEAT D016 (Rank 17) despite fewer soft laps!
+D1 D016 (loser): [('HARD', 28), ('SOFT', 27)]
+D2 D002 (winner): [('MEDIUM', 24), ('HARD', 31)]
+----------------------------------------
+D015 (Rank 0) BEAT D014 (Rank 19) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 25), ('SOFT', 32)]
+D2 D015 (winner): [('MEDIUM', 24), ('HARD', 33)]
+----------------------------------------
+D018 (Rank 3) BEAT D012 (Rank 18) despite fewer soft laps!
+D1 D012 (loser): [('HARD', 30), ('SOFT', 37)]
+D2 D018 (winner): [('MEDIUM', 28), ('HARD', 39)]
+----------------------------------------
+D008 (Rank 1) BEAT D005 (Rank 14) despite fewer soft laps!
+D1 D005 (loser): [('HARD', 40), ('SOFT', 26)]
+D2 D008 (winner): [('MEDIUM', 25), ('HARD', 41)]
+----------------------------------------
+D008 (Rank 1) BEAT D020 (Rank 15) despite fewer soft laps!
+D1 D020 (loser): [('HARD', 33), ('SOFT', 33)]
+D2 D008 (winner): [('MEDIUM', 25), ('HARD', 41)]
+----------------------------------------
+D008 (Rank 1) BEAT D009 (Rank 17) despite fewer soft laps!
+D1 D009 (loser): [('HARD', 32), ('SOFT', 34)]
+D2 D008 (winner): [('MEDIUM', 25), ('HARD', 41)]
+----------------------------------------
+D008 (Rank 1) BEAT D019 (Rank 19) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 18), ('SOFT', 48)]
+D2 D008 (winner): [('MEDIUM', 25), ('HARD', 41)]
+----------------------------------------
+D020 (Rank 0) BEAT D017 (Rank 14) despite fewer soft laps!
+D1 D017 (loser): [('HARD', 27), ('SOFT', 26)]
+D2 D020 (winner): [('HARD', 29), ('MEDIUM', 24)]
+----------------------------------------
+D020 (Rank 0) BEAT D010 (Rank 15) despite fewer soft laps!
+D1 D010 (loser): [('MEDIUM', 26), ('SOFT', 27)]
+D2 D020 (winner): [('HARD', 29), ('MEDIUM', 24)]
+----------------------------------------
+D020 (Rank 0) BEAT D016 (Rank 16) despite fewer soft laps!
+D1 D016 (loser): [('HARD', 26), ('SOFT', 27)]
+D2 D020 (winner): [('HARD', 29), ('MEDIUM', 24)]
+----------------------------------------
+D020 (Rank 0) BEAT D012 (Rank 17) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 22), ('SOFT', 31)]
+D2 D020 (winner): [('HARD', 29), ('MEDIUM', 24)]
+----------------------------------------
+D020 (Rank 0) BEAT D001 (Rank 18) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 19), ('SOFT', 34)]
+D2 D020 (winner): [('HARD', 29), ('MEDIUM', 24)]
+----------------------------------------
+D020 (Rank 0) BEAT D003 (Rank 19) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 16), ('SOFT', 37)]
+D2 D020 (winner): [('HARD', 29), ('MEDIUM', 24)]
+----------------------------------------
+D017 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 27), ('SOFT', 27)]
+D2 D017 (winner): [('MEDIUM', 23), ('HARD', 31)]
+----------------------------------------
+D017 (Rank 0) BEAT D006 (Rank 19) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 23), ('SOFT', 31)]
+D2 D017 (winner): [('MEDIUM', 23), ('HARD', 31)]
+----------------------------------------
+D007 (Rank 0) BEAT D020 (Rank 12) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 32), ('SOFT', 30)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 40)]
+----------------------------------------
+D007 (Rank 0) BEAT D008 (Rank 13) despite fewer soft laps!
+D1 D008 (loser): [('HARD', 30), ('SOFT', 32)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 40)]
+----------------------------------------
+D007 (Rank 0) BEAT D016 (Rank 17) despite fewer soft laps!
+D1 D016 (loser): [('MEDIUM', 23), ('SOFT', 39)]
+D2 D007 (winner): [('MEDIUM', 22), ('HARD', 40)]
+----------------------------------------
+D009 (Rank 0) BEAT D002 (Rank 17) despite fewer soft laps!
+D1 D002 (loser): [('HARD', 27), ('SOFT', 28)]
+D2 D009 (winner): [('HARD', 29), ('MEDIUM', 26)]
+----------------------------------------
+D009 (Rank 0) BEAT D007 (Rank 19) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 22), ('SOFT', 33)]
+D2 D009 (winner): [('HARD', 29), ('MEDIUM', 26)]
+----------------------------------------
+D004 (Rank 0) BEAT D009 (Rank 19) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 17), ('SOFT', 31)]
+D2 D004 (winner): [('HARD', 28), ('MEDIUM', 20)]
+----------------------------------------
+D003 (Rank 4) BEAT D010 (Rank 8) despite fewer soft laps!
+D1 D010 (loser): [('HARD', 43), ('SOFT', 26)]
+D2 D003 (winner): [('MEDIUM', 19), ('HARD', 50)]
+----------------------------------------
+D018 (Rank 1) BEAT D007 (Rank 11) despite fewer soft laps!
+D1 D007 (loser): [('HARD', 39), ('SOFT', 30)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D018 (Rank 1) BEAT D014 (Rank 13) despite fewer soft laps!
+D1 D014 (loser): [('HARD', 33), ('SOFT', 36)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D018 (Rank 1) BEAT D006 (Rank 15) despite fewer soft laps!
+D1 D006 (loser): [('HARD', 32), ('SOFT', 37)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D018 (Rank 1) BEAT D012 (Rank 16) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 32), ('SOFT', 37)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D018 (Rank 1) BEAT D015 (Rank 17) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 29), ('SOFT', 40)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D018 (Rank 1) BEAT D017 (Rank 18) despite fewer soft laps!
+D1 D017 (loser): [('HARD', 28), ('SOFT', 41)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D018 (Rank 1) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 21), ('SOFT', 48)]
+D2 D018 (winner): [('HARD', 40), ('MEDIUM', 29)]
+----------------------------------------
+D004 (Rank 0) BEAT D017 (Rank 14) despite fewer soft laps!
+D1 D017 (loser): [('HARD', 30), ('SOFT', 26)]
+D2 D004 (winner): [('MEDIUM', 24), ('HARD', 32)]
+----------------------------------------
+D004 (Rank 0) BEAT D008 (Rank 15) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 30), ('SOFT', 26)]
+D2 D004 (winner): [('MEDIUM', 24), ('HARD', 32)]
+----------------------------------------
+D004 (Rank 0) BEAT D015 (Rank 16) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 29), ('SOFT', 27)]
+D2 D004 (winner): [('MEDIUM', 24), ('HARD', 32)]
+----------------------------------------
+D017 (Rank 0) BEAT D020 (Rank 17) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 24), ('SOFT', 26)]
+D2 D017 (winner): [('MEDIUM', 19), ('HARD', 31)]
+----------------------------------------
+D017 (Rank 0) BEAT D009 (Rank 18) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 23), ('SOFT', 27)]
+D2 D017 (winner): [('MEDIUM', 19), ('HARD', 31)]
+----------------------------------------
+D017 (Rank 0) BEAT D005 (Rank 19) despite fewer soft laps!
+D1 D005 (loser): [('MEDIUM', 22), ('SOFT', 28)]
+D2 D017 (winner): [('MEDIUM', 19), ('HARD', 31)]
+----------------------------------------
+D003 (Rank 4) BEAT D004 (Rank 8) despite fewer soft laps!
+D1 D004 (loser): [('HARD', 38), ('SOFT', 30)]
+D2 D003 (winner): [('MEDIUM', 25), ('HARD', 43)]
+----------------------------------------
+D003 (Rank 4) BEAT D018 (Rank 16) despite fewer soft laps!
+D1 D018 (loser): [('HARD', 30), ('SOFT', 38)]
+D2 D003 (winner): [('MEDIUM', 25), ('HARD', 43)]
+----------------------------------------
+D003 (Rank 4) BEAT D011 (Rank 17) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 30), ('SOFT', 38)]
+D2 D003 (winner): [('MEDIUM', 25), ('HARD', 43)]
+----------------------------------------
+D003 (Rank 4) BEAT D001 (Rank 18) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 28), ('SOFT', 40)]
+D2 D003 (winner): [('MEDIUM', 25), ('HARD', 43)]
+----------------------------------------
+D003 (Rank 4) BEAT D007 (Rank 19) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 18), ('SOFT', 50)]
+D2 D003 (winner): [('MEDIUM', 25), ('HARD', 43)]
+----------------------------------------
+D017 (Rank 0) BEAT D003 (Rank 19) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 16), ('SOFT', 28)]
+D2 D017 (winner): [('MEDIUM', 19), ('HARD', 25)]
+----------------------------------------
+D010 (Rank 0) BEAT D011 (Rank 15) despite fewer soft laps!
+D1 D011 (loser): [('HARD', 30), ('SOFT', 27)]
+D2 D010 (winner): [('HARD', 36), ('MEDIUM', 21)]
+----------------------------------------
+D010 (Rank 0) BEAT D020 (Rank 16) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 31), ('SOFT', 26)]
+D2 D010 (winner): [('HARD', 36), ('MEDIUM', 21)]
+----------------------------------------
+D010 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 28), ('SOFT', 29)]
+D2 D010 (winner): [('HARD', 36), ('MEDIUM', 21)]
+----------------------------------------
+D010 (Rank 0) BEAT D018 (Rank 19) despite fewer soft laps!
+D1 D018 (loser): [('MEDIUM', 23), ('SOFT', 34)]
+D2 D010 (winner): [('HARD', 36), ('MEDIUM', 21)]
+----------------------------------------
+D011 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 16), ('SOFT', 30)]
+D2 D011 (winner): [('MEDIUM', 18), ('HARD', 28)]
+----------------------------------------
+D011 (Rank 0) BEAT D017 (Rank 19) despite fewer soft laps!
+D1 D017 (loser): [('MEDIUM', 16), ('SOFT', 30)]
+D2 D011 (winner): [('MEDIUM', 18), ('HARD', 28)]
+----------------------------------------
+D012 (Rank 1) BEAT D007 (Rank 19) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 24), ('SOFT', 37)]
+D2 D012 (winner): [('MEDIUM', 28), ('HARD', 33)]
+----------------------------------------
+D018 (Rank 0) BEAT D012 (Rank 17) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 24), ('SOFT', 26)]
+D2 D018 (winner): [('MEDIUM', 25), ('HARD', 25)]
+----------------------------------------
+D018 (Rank 0) BEAT D011 (Rank 19) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 17), ('SOFT', 33)]
+D2 D018 (winner): [('MEDIUM', 25), ('HARD', 25)]
+----------------------------------------
+D006 (Rank 0) BEAT D011 (Rank 19) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 16), ('SOFT', 35)]
+D2 D006 (winner): [('HARD', 28), ('MEDIUM', 23)]
+----------------------------------------
+D003 (Rank 0) BEAT D012 (Rank 14) despite fewer soft laps!
+D1 D012 (loser): [('HARD', 28), ('SOFT', 27)]
+D2 D003 (winner): [('HARD', 28), ('MEDIUM', 27)]
+----------------------------------------
+D003 (Rank 0) BEAT D015 (Rank 15) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 26), ('SOFT', 29)]
+D2 D003 (winner): [('HARD', 28), ('MEDIUM', 27)]
+----------------------------------------
+D003 (Rank 0) BEAT D009 (Rank 16) despite fewer soft laps!
+D1 D009 (loser): [('HARD', 26), ('SOFT', 29)]
+D2 D003 (winner): [('HARD', 28), ('MEDIUM', 27)]
+----------------------------------------
+D003 (Rank 0) BEAT D020 (Rank 19) despite fewer soft laps!
+D1 D020 (loser): [('MEDIUM', 23), ('SOFT', 32)]
+D2 D003 (winner): [('HARD', 28), ('MEDIUM', 27)]
+----------------------------------------
+D014 (Rank 1) BEAT D011 (Rank 15) despite fewer soft laps!
+D1 D011 (loser): [('HARD', 29), ('SOFT', 35)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D007 (Rank 17) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 23), ('SOFT', 41)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D019 (Rank 19) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 18), ('SOFT', 46)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D002 (Rank 0) BEAT D004 (Rank 19) despite fewer soft laps!
+D1 D004 (loser): [('MEDIUM', 17), ('SOFT', 30)]
+D2 D002 (winner): [('MEDIUM', 17), ('HARD', 30)]
+----------------------------------------
+D014 (Rank 1) BEAT D018 (Rank 9) despite fewer soft laps!
+D1 D018 (loser): [('HARD', 36), ('SOFT', 28)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D008 (Rank 13) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 32), ('SOFT', 32)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D004 (Rank 16) despite fewer soft laps!
+D1 D004 (loser): [('HARD', 28), ('SOFT', 36)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 20), ('SOFT', 44)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D014 (Rank 1) BEAT D019 (Rank 19) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 20), ('SOFT', 44)]
+D2 D014 (winner): [('MEDIUM', 25), ('HARD', 39)]
+----------------------------------------
+D003 (Rank 0) BEAT D017 (Rank 12) despite fewer soft laps!
+D1 D017 (loser): [('HARD', 29), ('SOFT', 26)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D005 (Rank 13) despite fewer soft laps!
+D1 D005 (loser): [('MEDIUM', 26), ('SOFT', 29)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D006 (Rank 15) despite fewer soft laps!
+D1 D006 (loser): [('HARD', 25), ('SOFT', 30)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D013 (Rank 16) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 23), ('SOFT', 32)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D001 (Rank 17) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 22), ('SOFT', 33)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D015 (Rank 18) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 22), ('SOFT', 33)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D016 (Rank 19) despite fewer soft laps!
+D1 D016 (loser): [('MEDIUM', 18), ('SOFT', 37)]
+D2 D003 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D003 (Rank 0) BEAT D011 (Rank 14) despite fewer soft laps!
+D1 D011 (loser): [('HARD', 36), ('SOFT', 28)]
+D2 D003 (winner): [('MEDIUM', 26), ('HARD', 38)]
+----------------------------------------
+D003 (Rank 0) BEAT D014 (Rank 18) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 29), ('SOFT', 35)]
+D2 D003 (winner): [('MEDIUM', 26), ('HARD', 38)]
+----------------------------------------
+D005 (Rank 0) BEAT D006 (Rank 17) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 18), ('SOFT', 29)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 20)]
+----------------------------------------
+D005 (Rank 0) BEAT D014 (Rank 18) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 16), ('SOFT', 31)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 20)]
+----------------------------------------
+D005 (Rank 0) BEAT D015 (Rank 19) despite fewer soft laps!
+D1 D015 (loser): [('MEDIUM', 16), ('SOFT', 31)]
+D2 D005 (winner): [('HARD', 27), ('MEDIUM', 20)]
+----------------------------------------
+D011 (Rank 0) BEAT D013 (Rank 16) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 28), ('SOFT', 26)]
+D2 D011 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D011 (Rank 0) BEAT D015 (Rank 17) despite fewer soft laps!
+D1 D015 (loser): [('HARD', 25), ('SOFT', 29)]
+D2 D011 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D011 (Rank 0) BEAT D008 (Rank 19) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 24), ('SOFT', 30)]
+D2 D011 (winner): [('MEDIUM', 22), ('HARD', 32)]
+----------------------------------------
+D018 (Rank 0) BEAT D012 (Rank 11) despite fewer soft laps!
+D1 D012 (loser): [('HARD', 36), ('SOFT', 26)]
+D2 D018 (winner): [('HARD', 41), ('MEDIUM', 21)]
+----------------------------------------
+D018 (Rank 0) BEAT D007 (Rank 14) despite fewer soft laps!
+D1 D007 (loser): [('HARD', 31), ('SOFT', 31)]
+D2 D018 (winner): [('HARD', 41), ('MEDIUM', 21)]
+----------------------------------------
+D018 (Rank 0) BEAT D008 (Rank 16) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 32), ('SOFT', 30)]
+D2 D018 (winner): [('HARD', 41), ('MEDIUM', 21)]
+----------------------------------------
+D018 (Rank 0) BEAT D002 (Rank 18) despite fewer soft laps!
+D1 D002 (loser): [('MEDIUM', 30), ('SOFT', 32)]
+D2 D018 (winner): [('HARD', 41), ('MEDIUM', 21)]
+----------------------------------------
+D018 (Rank 0) BEAT D006 (Rank 19) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 28), ('SOFT', 34)]
+D2 D018 (winner): [('HARD', 41), ('MEDIUM', 21)]
+----------------------------------------
+D006 (Rank 0) BEAT D007 (Rank 16) despite fewer soft laps!
+D1 D007 (loser): [('HARD', 25), ('SOFT', 30)]
+D2 D006 (winner): [('MEDIUM', 27), ('HARD', 28)]
+----------------------------------------
+D006 (Rank 0) BEAT D011 (Rank 17) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 22), ('SOFT', 33)]
+D2 D006 (winner): [('MEDIUM', 27), ('HARD', 28)]
+----------------------------------------
+D006 (Rank 0) BEAT D008 (Rank 18) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 17), ('SOFT', 38)]
+D2 D006 (winner): [('MEDIUM', 27), ('HARD', 28)]
+----------------------------------------
+D006 (Rank 0) BEAT D002 (Rank 19) despite fewer soft laps!
+D1 D002 (loser): [('MEDIUM', 16), ('SOFT', 39)]
+D2 D006 (winner): [('MEDIUM', 27), ('HARD', 28)]
+----------------------------------------
+D002 (Rank 0) BEAT D006 (Rank 18) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 25), ('SOFT', 30)]
+D2 D002 (winner): [('MEDIUM', 23), ('HARD', 32)]
+----------------------------------------
+D005 (Rank 0) BEAT D018 (Rank 13) despite fewer soft laps!
+D1 D018 (loser): [('HARD', 29), ('SOFT', 26)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D006 (Rank 14) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 26), ('SOFT', 29)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D012 (Rank 15) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 26), ('SOFT', 29)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D001 (Rank 16) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 25), ('SOFT', 30)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D009 (Rank 17) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 25), ('SOFT', 30)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D011 (Rank 18) despite fewer soft laps!
+D1 D011 (loser): [('HARD', 25), ('SOFT', 30)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D005 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 15), ('SOFT', 40)]
+D2 D005 (winner): [('MEDIUM', 26), ('HARD', 29)]
+----------------------------------------
+D014 (Rank 0) BEAT D020 (Rank 18) despite fewer soft laps!
+D1 D020 (loser): [('HARD', 26), ('SOFT', 26)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 29)]
+----------------------------------------
+D014 (Rank 0) BEAT D012 (Rank 19) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 18), ('SOFT', 34)]
+D2 D014 (winner): [('MEDIUM', 23), ('HARD', 29)]
+----------------------------------------
+D012 (Rank 0) BEAT D006 (Rank 18) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 21), ('SOFT', 26)]
+D2 D012 (winner): [('MEDIUM', 20), ('HARD', 27)]
+----------------------------------------
+D012 (Rank 1) BEAT D001 (Rank 10) despite fewer soft laps!
+D1 D001 (loser): [('HARD', 38), ('SOFT', 28)]
+D2 D012 (winner): [('MEDIUM', 19), ('HARD', 47)]
+----------------------------------------
+D012 (Rank 1) BEAT D018 (Rank 13) despite fewer soft laps!
+D1 D018 (loser): [('HARD', 33), ('SOFT', 33)]
+D2 D012 (winner): [('MEDIUM', 19), ('HARD', 47)]
+----------------------------------------
+D012 (Rank 1) BEAT D014 (Rank 18) despite fewer soft laps!
+D1 D014 (loser): [('MEDIUM', 27), ('SOFT', 39)]
+D2 D012 (winner): [('MEDIUM', 19), ('HARD', 47)]
+----------------------------------------
+D012 (Rank 1) BEAT D006 (Rank 19) despite fewer soft laps!
+D1 D006 (loser): [('MEDIUM', 26), ('SOFT', 40)]
+D2 D012 (winner): [('MEDIUM', 19), ('HARD', 47)]
+----------------------------------------
+D007 (Rank 3) BEAT D009 (Rank 13) despite fewer soft laps!
+D1 D009 (loser): [('HARD', 44), ('SOFT', 26)]
+D2 D007 (winner): [('MEDIUM', 25), ('HARD', 45)]
+----------------------------------------
+D007 (Rank 3) BEAT D016 (Rank 15) despite fewer soft laps!
+D1 D016 (loser): [('HARD', 38), ('SOFT', 32)]
+D2 D007 (winner): [('MEDIUM', 25), ('HARD', 45)]
+----------------------------------------
+D008 (Rank 0) BEAT D001 (Rank 12) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 26), ('SOFT', 27)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D008 (Rank 0) BEAT D004 (Rank 13) despite fewer soft laps!
+D1 D004 (loser): [('MEDIUM', 26), ('SOFT', 27)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D008 (Rank 0) BEAT D012 (Rank 15) despite fewer soft laps!
+D1 D012 (loser): [('MEDIUM', 24), ('SOFT', 29)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D008 (Rank 0) BEAT D013 (Rank 16) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 24), ('SOFT', 29)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D008 (Rank 0) BEAT D003 (Rank 17) despite fewer soft laps!
+D1 D003 (loser): [('MEDIUM', 23), ('SOFT', 30)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D008 (Rank 0) BEAT D019 (Rank 18) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 19), ('SOFT', 34)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D008 (Rank 0) BEAT D011 (Rank 19) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 16), ('SOFT', 37)]
+D2 D008 (winner): [('HARD', 36), ('MEDIUM', 17)]
+----------------------------------------
+D015 (Rank 0) BEAT D010 (Rank 18) despite fewer soft laps!
+D1 D010 (loser): [('HARD', 29), ('SOFT', 35)]
+D2 D015 (winner): [('MEDIUM', 23), ('HARD', 41)]
+----------------------------------------
+D011 (Rank 0) BEAT D019 (Rank 17) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 25), ('SOFT', 26)]
+D2 D011 (winner): [('HARD', 29), ('MEDIUM', 22)]
+----------------------------------------
+D011 (Rank 0) BEAT D020 (Rank 18) despite fewer soft laps!
+D1 D020 (loser): [('HARD', 25), ('SOFT', 26)]
+D2 D011 (winner): [('HARD', 29), ('MEDIUM', 22)]
+----------------------------------------
+D011 (Rank 0) BEAT D013 (Rank 19) despite fewer soft laps!
+D1 D013 (loser): [('MEDIUM', 22), ('SOFT', 29)]
+D2 D011 (winner): [('HARD', 29), ('MEDIUM', 22)]
+----------------------------------------
+D006 (Rank 1) BEAT D020 (Rank 15) despite fewer soft laps!
+D1 D020 (loser): [('HARD', 32), ('SOFT', 32)]
+D2 D006 (winner): [('HARD', 38), ('MEDIUM', 26)]
+----------------------------------------
+D006 (Rank 1) BEAT D011 (Rank 17) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 31), ('SOFT', 33)]
+D2 D006 (winner): [('HARD', 38), ('MEDIUM', 26)]
+----------------------------------------
+D006 (Rank 1) BEAT D009 (Rank 18) despite fewer soft laps!
+D1 D009 (loser): [('MEDIUM', 20), ('SOFT', 44)]
+D2 D006 (winner): [('HARD', 38), ('MEDIUM', 26)]
+----------------------------------------
+D006 (Rank 1) BEAT D007 (Rank 19) despite fewer soft laps!
+D1 D007 (loser): [('MEDIUM', 19), ('SOFT', 45)]
+D2 D006 (winner): [('HARD', 38), ('MEDIUM', 26)]
+----------------------------------------
+D014 (Rank 0) BEAT D011 (Rank 18) despite fewer soft laps!
+D1 D011 (loser): [('MEDIUM', 16), ('SOFT', 29)]
+D2 D014 (winner): [('HARD', 25), ('MEDIUM', 20)]
+----------------------------------------
+D014 (Rank 0) BEAT D001 (Rank 19) despite fewer soft laps!
+D1 D001 (loser): [('MEDIUM', 15), ('SOFT', 30)]
+D2 D014 (winner): [('HARD', 25), ('MEDIUM', 20)]
+----------------------------------------
+D009 (Rank 0) BEAT D019 (Rank 19) despite fewer soft laps!
+D1 D019 (loser): [('MEDIUM', 18), ('SOFT', 26)]
+D2 D009 (winner): [('MEDIUM', 19), ('HARD', 25)]
+----------------------------------------
+D011 (Rank 0) BEAT D008 (Rank 18) despite fewer soft laps!
+D1 D008 (loser): [('MEDIUM', 16), ('SOFT', 27)]
+D2 D011 (winner): [('SOFT', 12), ('HARD', 31)]
+----------------------------------------
+D011 (Rank 0) BEAT D017 (Rank 19) despite fewer soft laps!
+D1 D017 (loser): [('MEDIUM', 15), ('SOFT', 28)]
+D2 D011 (winner): [('SOFT', 12), ('HARD', 31)]
+----------------------------------------

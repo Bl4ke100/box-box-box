@@ -1,0 +1,1 @@
+﻿Rounded params violations: 4086, exact ties: 4543
